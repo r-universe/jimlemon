@@ -11,6 +11,3 @@
 [submodule "eventInterval"]
 	path = eventInterval
 	url = https://github.com/cran/eventInterval
-[submodule "prettyR"]
-	path = prettyR
-	url = https://github.com/cran/prettyR
